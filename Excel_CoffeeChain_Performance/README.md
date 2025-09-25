@@ -68,8 +68,8 @@ The dataset contains sales records over multiple years, including key columns su
 ![KPI Charts](kpi_charts.png)
 
 3. **Product & Market Insights**  
-![Product & Market Insights](product_market_insights.png)
-
+![Product & Market Insights](sales_insights.png )
+![Product & Market Insights](expense_insights.png )
 ---
 
 ## Key Learnings
