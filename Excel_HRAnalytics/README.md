@@ -67,13 +67,13 @@ The dataset contains employee records with key fields:
 
 
 1. **Dashboard Overview**  
-   ![Dashboard Overview](screenshots/dashboard_overview.png)
+   ![Dashboard Overview](screenshots/HRdashboard_overview.png)
 
 2. **Attrition Analysis by Age & Department**  
    ![Attrition Insights](screenshots/attrition_insights.png)
 
 3. **Tenure & Overtime Patterns**  
-   ![Tenure & Overtime](screenshots/tenure_overtime.png)
+   ![Tenure & Overtime](screenshots/tenure_overtime.jpg)
 
 ---
 
