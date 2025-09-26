@@ -59,10 +59,11 @@ A total of **135,940 flights** were booked, generating **$260.30M**. First Class
 **40,550 hotel bookings** contributed **$21.75M** in revenue. The average stay is **2.5 days**, with an average daily spend of **$214.40**. Revenue peaked in **2020** with October as the top month. Popular hotel locations include Salvador (BH), Sao Paulo (SP), Rio de Janeiro (RJ), Natal (RN), and Recife (PE).
 
 ### Trip & Seasonal Trends
-Trips mirror revenue trends, peaking in **October** and lowest in **August**. Coastal destinations generate the most revenue, while mountain regions show steady, moderate growth.
+Trips mirror revenue trends, peaking in **October** and lowest in **August**. Destinations such as **Florianopolis (SC), Campo Grande (MS), Aracaju (SE), Brasilia (DF), and Recife (PE)** show the highest revenue and trip volumes. 
+
 
 ### User Behavior
-Users aged **30–50 years** take the majority of trips. Analysis of booking channels shows that **online portals drive most reservations**, while direct bookings yield higher revenue per visitor.
+The average user age is **42.7 years** , with a balanced gender split. Company engagement varies, led by **4You** and lowest from **Umbrella LTDA** , highlighting distinct participation patterns.
 
 ---
 
