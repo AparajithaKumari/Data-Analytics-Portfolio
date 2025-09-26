@@ -62,14 +62,14 @@ The dataset contains sales records over multiple years, including key columns su
 ## Screenshots
 
 1. **Dashboard Overview**  
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 2. **KPI Charts**  
-![KPI Charts](kpi_charts.png)
+![KPI Charts](screenshots/kpi_charts.png)
 
 3. **Product & Market Insights**  
-![Product & Market Insights](sales_insights.png )
-![Product & Market Insights](expense_insights.png )
+![Product & Market Insights](screenshots/sales_insights.png )
+![Product & Market Insights](screenshots/expense_insights.png )
 ---
 
 ## Key Learnings
