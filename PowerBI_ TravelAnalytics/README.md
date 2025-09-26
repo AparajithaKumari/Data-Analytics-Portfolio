@@ -76,6 +76,9 @@ The average user age is **42.7 years** , with a balanced gender split. Company e
 
 ---
 
+[Download the Power BI File](Travel_Analytics_Project.pbix)
+
+
 ## Screenshots
 
 
