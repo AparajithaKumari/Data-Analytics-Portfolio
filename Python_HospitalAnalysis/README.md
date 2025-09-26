@@ -35,25 +35,24 @@ Key metrics calculated include:
 ## Insights
 
 Patients were almost evenly split between male and female (48.94% vs 51.06%).Age distribution showed that patients ranged from 0 to 100 years, with an average age of 49 years. The majority of admissions were concentrated in the 75–100 year range, highlighting that older adults represent a significant portion of hospital patients.
-![Patient Demographics](screenshots/patient_demographics.png)  
+![Patient Demographics](screenshots/patient_demographics.jpg)  
 
 The majority of patients had a Length of Stay (LOS) between 15–30 days, with the highest number of patients in the 25–30 day range , highlighting extended care requirements for critical cases.
 
 ![Length of Stay](screenshots/length_of_stay.png)  
 
 Skin Infection was the most frequent condition, while cancer cases contributed significantly to overall billing. The top ten conditions had average stays of 16–19 days, indicating consistent hospitalization needs across common medical issues.
-![Top Medical Conditions](screenshots/condition_distribution.png)  
-![Average Stay by Condition](screenshots/average_stay_condition.png)  
-
-Most treatments cost between 0–50,000, but cancer treatments were higher, ranging from 20,000–100,000. Hypertension generated the highest revenue, whereas common cold contributed the least, highlighting chronic conditions as the biggest financial drivers.
-
-![Billing Insights](screenshots/billing_insights.png)  
-![Revenue Drivers](screenshots/revenue_drivers.png)  
+![Top Medical Conditions]![Average Stay by Condition](screenshots/condition_distribution.jpg)  
 
 Medication was the most frequent treatment type, reflecting its central role in patient care. Billing distribution showed most patients were billed 0–20,000, with a smaller number of high-value cases that significantly impact hospital revenue.
 
-![Treatment Patterns](screenshots/treatment_patterns.png)  
-![Billing Distribution](screenshots/billing_distribution.png) 
+![Treatment Patterns]![Billing Distribution](screenshots/treatment_patterns.jpg)  
+
+
+Most treatments cost between 0–50,000, but cancer treatments were higher, ranging from 20,000–100,000. Hypertension generated the highest revenue, whereas common cold contributed the least, highlighting chronic conditions as the biggest financial drivers.
+
+![Billing Insights]![Revenue Drivers](screenshots/billing_insights.jpg)  
+
 
 Admissions were relatively steady throughout the year, with slight peaks in January and March and minor dips in November.
 
