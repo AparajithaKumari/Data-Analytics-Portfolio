@@ -42,16 +42,16 @@ The majority of patients had a Length of Stay (LOS) between 15–30 days, with t
 ![Length of Stay](screenshots/length_of_stay.png)  
 
 Skin Infection was the most frequent condition, while cancer cases contributed significantly to overall billing. The top ten conditions had average stays of 16–19 days, indicating consistent hospitalization needs across common medical issues.
-![Top Medical Conditions]![Average Stay by Condition](screenshots/condition_distribution.jpg)  
+![Top Medical Conditions](screenshots/condition_distribution.jpg)  
 
 Medication was the most frequent treatment type, reflecting its central role in patient care. Billing distribution showed most patients were billed 0–20,000, with a smaller number of high-value cases that significantly impact hospital revenue.
 
-![Treatment Patterns]![Billing Distribution](screenshots/treatment_patterns.jpg)  
+![Treatment Patterns](screenshots/treatment_patterns.jpg)  
 
 
 Most treatments cost between 0–50,000, but cancer treatments were higher, ranging from 20,000–100,000. Hypertension generated the highest revenue, whereas common cold contributed the least, highlighting chronic conditions as the biggest financial drivers.
 
-![Billing Insights]![Revenue Drivers](screenshots/billing_insights.jpg)  
+![Billing Insights](screenshots/billing_insights.jpg)  
 
 
 Admissions were relatively steady throughout the year, with slight peaks in January and March and minor dips in November.
