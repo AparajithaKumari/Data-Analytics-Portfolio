@@ -35,32 +35,47 @@ Key metrics calculated include:
 ## Insights
 
 Patients were almost evenly split between male and female (48.94% vs 51.06%).Age distribution showed that patients ranged from 0 to 100 years, with an average age of 49 years. The majority of admissions were concentrated in the 75–100 year range, highlighting that older adults represent a significant portion of hospital patients.
-![Patient Demographics](screenshots/patient_demographics.jpg)  
+
+
+<img src="screenshots/patient_demographics.jpg" alt="Patient Demographics" width="600" height="400"/>
+  
 
 The majority of patients had a Length of Stay (LOS) between 15–30 days, with the highest number of patients in the 25–30 day range , highlighting extended care requirements for critical cases.
 
-![Length of Stay](screenshots/length_of_stay.png)  
+
+<img src="screenshots/length_of_stay.png" alt="Lenght of stay" width="400" height="400"/>
+
 
 Skin Infection was the most frequent condition, while cancer cases contributed significantly to overall billing. The top ten conditions had average stays of 16–19 days, indicating consistent hospitalization needs across common medical issues.
-![Top Medical Conditions](screenshots/condition_distribution.jpg)  
+
+
+<img src="screenshots/condition_distribution.jpg" alt="Condition Distribution" width="800" height="500"/>
+ 
 
 Medication was the most frequent treatment type, reflecting its central role in patient care. Billing distribution showed most patients were billed 0–20,000, with a smaller number of high-value cases that significantly impact hospital revenue.
 
-![Treatment Patterns](screenshots/treatment_patterns.jpg)  
+
+<img src="screenshots/treatment_patterns.jpg" alt="Treatment Pattern" width="800" height="500"/>
+
 
 
 Most treatments cost between 0–50,000, but cancer treatments were higher, ranging from 20,000–100,000. Hypertension generated the highest revenue, whereas common cold contributed the least, highlighting chronic conditions as the biggest financial drivers.
 
-![Billing Insights](screenshots/billing_insights.jpg)  
+
+<img src="screenshots/billing_insights.jpg" alt="Billing Insights" width="800" height="500"/>
 
 
 Admissions were relatively steady throughout the year, with slight peaks in January and March and minor dips in November.
 
-![Admissions Over Time](screenshots/admissions_over_time.png)
+
+<img src="screenshots/admissions_over_time.png" alt="Admissions Over Time" width="400" height="400"/>
+
+
 
 Correlation analysis revealed weak relationships among age, length of stay, and billing, indicating that treatment type and condition severity primarily drive costs rather than patient age or stay duration.
 
-![Correlation Analysis](screenshots/correlation_analysis.png) 
+<img src="screenshots/correlation_analysis.png" alt="Correlation Analysis" width="400" height="400"/>
+
 
 ---
 
