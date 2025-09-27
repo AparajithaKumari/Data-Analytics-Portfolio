@@ -9,56 +9,72 @@ The **Coffee Chain Performance Analysis Dashboard** enables stakeholders to eval
 ---
 
 ## Dataset
-The dataset contains sales records over multiple years, including key columns such as:
 
-- Date, Product, Coffee Type (Regular/Decaf), Market, Product Line  
-- Financial metrics: Sales, Profit, Cost of Goods Sold (COGS), Other Expenses  
+The data contains order-level details covering:
+* **Orders:** Order Date, Product Type, Coffee Type (Regular/Decaf), Product Line, Quantity, Sales, Profit, COGS  
+* **Markets & Geography:** Market, State  
+* **Metrics:** Total Sales, Total Profit, Total COGS, Profit Margin, Other Expenses  
 
-> Derived metrics like **Net Margin** and **Profit Margin** were added to enhance analysis.
-
----
 
 ## Tools & Techniques
-- **Microsoft Excel:** Pivot Tables, Charts, KPIs  
-- **Data Cleaning & Transformation:** Standardized product names, created custom metrics  
-- **Visualization:** Interactive slicers and charts for dynamic exploration of trends
+* **Microsoft Excel:** Pivot Tables, Charts, KPIs  
+* **Data Cleaning & Transformation:** Standardized product names, created custom metrics  
+* **Visualization:** Interactive slicers and charts for dynamic exploration of trends
+* **Custom Metrics:** Calculated fields for Net Margin, Gross Margin, and Other Expenses to enrich analysis  
 
 ---
 
-## Key Features
-- **Interactive Slicers:** Filter by Date, Product, Market, Coffee Type, and Product Line  
-- **Custom Metrics:** Net Margin, Gross Margin, Other Expenses  
-- **Core KPIs:**
-  - Total Sales: $202.90K  
-  - Total Profit: $64.31K  
-  - Total COGS: $87.52K  
-  - Profit Margin: 32%
+## Key KPIs
 
----
-
-## Performance Highlights
-- 2012: Sales $38.51K vs target $30.42K | Profit $9.36K  
-- 2013: Sales $68.50K vs target $58.76K | Profit exceeded target  
-- 2014: Sales $96.33K vs target $89.76K | Profit exceeded target  
-
-> Demonstrates consistent growth in sales and profitability over three years.
+* **Total Sales:** $202.90K  
+* **Total Profit:** $64.31K  
+* **Total COGS:** $87.52K  
+* **Profit Margin:** 32%  
 
 ---
 
 ## Insights & Analysis
-- **Top-Selling Products:** Colombian Coffee ($30.76K), Lemon flavor ($24.05K)  
-- **Most Profitable Products:** Colombian Coffee ($12.93K), Lemon, Decaf Espresso  
-- **Category Performance:** Espresso leads in both sales and profit; Tea lags behind  
-- **Monthly Trends:** November is the peak month for sales ($22.41K) and profit ($7.48K); February the lowest ($14.79K)  
-- **Geographic Performance:** California top-performing ($23.03K), New Hampshire lowest ($3.54K)  
-- **Expense Insights:** COGS ($87.51K), Marketing ($32.32K), Other Expenses ($24.55K) — visuals highlight cost impact on profitability
+
+**Performance Patterns** 
+
+The dashboard shows how the coffee chain performed over three years:
+
+* **2012:** Sales $38.51K vs. target $30.42K; Profit $9.36K vs. $10.76K  
+* **2013:** Sales $68.50K vs. target $58.76K; Profit steadily exceeded targets  
+* **2014:** Sales $96.33K vs. target $89.76K; Profit continued to improve
+  
+The chain consistently met sales expectations, and profits improved year over year
+
+**Product & Category Patterns**  
+
+* **Top-Selling Products:** Colombian Coffee ($30.76K) and Lemon flavor ($24.05K)  
+* **Most Profitable Products:** Colombian Coffee ($12.93K profit), followed by Lemon and Decaf Espresso  
+* **Category Observations:** Espresso generated the highest sales ($58.01K) and profit ($17.88K), while Tea lagged ($42.82K sales, $13.04K profit)  
+
+**Market & Seasonal Trends**  
+
+* **Coffee Type Share:** Regular coffee made up 58% of total sales, Decaf 42%
+* **Monthly Trends:**  
+  * Peak Month: November ($22.41K sales, $7.48K profit)  
+  * Lowest Month: February ($14.79K sales, $4.33K profit)  
+* **Geographic Performance:** California was the top-performing state ($23.03K sales), while New Hampshire recorded the lowest ($3.54K)
+  
+* Strong seasonal demand and state-level differences highlight opportunities for targeted promotions and inventory planning.
+
+**Expense Patterns**  
+
+* **COGS:** $87.51K  
+* **Marketing:** $32.32K  
+* **Other Expenses (Custom Metric):** $24.55K  
+* The expense breakdown clarified how marketing and operational costs affected profitability.  
+
+**Segment Performance**  
+
+* **Coffee Types:** Regular coffee contributes more to total revenue, but Decaf maintains steady profitability.  
+* **Product Lines:** High-margin lines, such as Colombian Coffee and Espresso, consistently outperform others.  
+* Understanding segment and product-level contributions helps optimize marketing and pricing strategies.
 
 ---
-
-> Dashboard provides actionable insights to support strategic decision-making and profitability optimization.
-
----
-
 ## Screenshots
 
 1. **Dashboard Overview**  
@@ -69,7 +85,7 @@ The dataset contains sales records over multiple years, including key columns su
 
 3. **Product & Market Insights**  
 ![Product & Market Insights](screenshots/sales_insights.png )
-![Product & Market Insights](screenshots/expense_insights.png )
+  <img src="screenshots/expense_insights.png" alt="Expense Insights" width="300" height="300"/>
 ---
 
 ## Key Learnings
